@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "drugs",
+            "prefix": "drugs/"
+        },
+        {
+            "type": "directory",
+            "source": "weapons",
+            "prefix": "weapons/"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 3621003}, "model": "weapons/netheritestaff"},
+    { "predicate": { "custom_model_data": 3621004}, "model": "weapons/orb"},
+    { "predicate": { "custom_model_data": 3621005}, "model": "weapons/woodenstaff"}
+  ]
+}

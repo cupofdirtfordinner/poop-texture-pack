@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides":
+  [
+    { "predicate": { "custom_model_data": 3621000}, "model": "drugs/empty"},
+    { "predicate": { "custom_model_data": 3621001}, "model": "drugs/gruel_bong"},
+    { "predicate": { "custom_model_data": 3621002}, "model": "drugs/crackpipe"}
+  ]
+}
