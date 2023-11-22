@@ -7,6 +7,10 @@
   [
     { "predicate": { "custom_model_data": 3621003}, "model": "weapons/netheritestaff"},
     { "predicate": { "custom_model_data": 3621004}, "model": "weapons/orb"},
-    { "predicate": { "custom_model_data": 3621005}, "model": "weapons/woodenstaff"}
+    { "predicate": { "custom_model_data": 3621005}, "model": "weapons/woodenstaff"},
+    
+    { "predicate": { "custom_model_data": 3621006}, "model": "weapons/netheritestaffhold"},
+    { "predicate": { "custom_model_data": 3621007}, "model": "weapons/woodenstaffhold"},
+    { "predicate": { "custom_model_data": 3621008}, "model": "weapons/tesseract"}
   ]
 }
